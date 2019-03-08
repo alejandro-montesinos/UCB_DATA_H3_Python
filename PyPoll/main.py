@@ -50,7 +50,6 @@ winner = "Winner: Khan"
 L  = [Header_txt,Format_line,Total_Sum_txt,Format_line, khan_votes,correy_votes,li_votes,otooley_votes,Format_line,winner,Format_line]  #Create a list os the values to output
 L2 = []                                                          #Create an empty list that is going to be fille in during the loop
 
-khan_votes,correy_votes,li_votes,otooley_votes
 
 for txtt in L:
     print(txtt)              #Print into Temrinal
